@@ -2765,10 +2765,13 @@ body {
 .cid-qZABlQInLi .dropdown-item:hover {
   color: #e4d295 !important;
 }
+.cid-r2vzyydvVw {
+  background-image: url("../../../assets/images/jumbotron.jpg");
+}
 .cid-r1QWKf6JLe {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 45px;
-  background-color: #cccccc;
+  background-color: #ffffff;
 }
 .cid-r1QWKf6JLe .content-slider {
   display: flex;
@@ -3025,7 +3028,7 @@ body {
   background: transparent !important;
 }
 .cid-r1QWKf6JLe .image_wrapper {
-  height: 400px;
+  height: 510px;
   width: 100%;
   position: relative;
   display: inline-block;
@@ -3038,7 +3041,7 @@ body {
   text-align: center;
 }
 .cid-r1QWKf6JLe .content-slider-wrap {
-  width: 60%;
+  width: 77%;
 }
 .cid-qZDhFHEMGX {
   padding-top: 60px;
